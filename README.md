@@ -9,7 +9,7 @@
 - data analysis on user history
 
 
-### Tech stacks
+### Tech stack
 - WeBull APIs
 - Flask or FastAPI or React
 - Command line or GUI or website
